@@ -1,6 +1,6 @@
 # People Analytics — Análise de Headcount
 
-Case Técnico · Sr. Data Analyst · 2025
+Case Técnico 
 
 ## 📁 Estrutura do Repositório
 
@@ -94,7 +94,7 @@ Case Técnico · Sr. Data Analyst · 2025
 - **Python / pandas** — limpeza, transformação e geração de tabelas
 - **Node.js / docx** — geração do glossário e documentação (.docx)
 - **Node.js / pptxgenjs** — geração da apresentação (.pptx)
-- **Power BI** — consumo das tabelas para dashboards (arquivo .pbix separado)
+
 
 ---
 
